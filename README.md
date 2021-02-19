@@ -1,7 +1,7 @@
 # UnbalancedMap
-Simulate the UnbalancedMap with persoanl data structure.
+Simulate the UnbalancedMap with the personal data structure.
 # Implementation
-Create the data structure and implement unbalanced binary search tree.
+Create the data structure and implement an unbalanced binary search tree.
 # Test file
 There is a test file for testing all the implementation successfully. 
 # Element
